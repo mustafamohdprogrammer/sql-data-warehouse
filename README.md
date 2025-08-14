@@ -92,12 +92,14 @@ data-warehouse-project/
 
 ---
 
+
 ## ☕ Stay Connected
 
-Let’s connect and grow together! You can find me on:  
-**[YouTube](#)** | **[LinkedIn](#)** | **[Website](#)** | **[Newsletter](#)** | **[Support Me](#)**  
+Let’s connect and grow together!  
 
----
+- **LinkedIn:** [https://www.linkedin.com/in/mustafa1622/](https://www.linkedin.com/in/mustafa1622/)  
+- **Email:** [mohdmustafa969@gmail.com](mailto:mohdmustafa969@gmail.com)  
+
 
 ## 🛡️ License
 
