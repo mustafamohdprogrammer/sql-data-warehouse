@@ -76,6 +76,23 @@ These insights help stakeholders make **data-driven strategic decisions**.
 
 ---
 
+
+## ☕ Stay Connected
+
+Let’s connect and grow together!  
+
+- **LinkedIn:** [https://www.linkedin.com/in/mustafa1622/](https://www.linkedin.com/in/mustafa1622/)  
+- **Email:** [mohdmustafa969@gmail.com](mailto:mohdmustafa969@gmail.com)  
+
+
+## 🛡️ License
+
+This project is licensed under the **MIT License** — you are free to use, modify, and share it with proper attribution.
+
+---
+
+**Let’s connect and collaborate!**
+
 ## 📂 Repository Structure
 
 ```
@@ -93,18 +110,3 @@ data-warehouse-project/
 ---
 
 
-## ☕ Stay Connected
-
-Let’s connect and grow together!  
-
-- **LinkedIn:** [https://www.linkedin.com/in/mustafa1622/](https://www.linkedin.com/in/mustafa1622/)  
-- **Email:** [mohdmustafa969@gmail.com](mailto:mohdmustafa969@gmail.com)  
-
-
-## 🛡️ License
-
-This project is licensed under the **MIT License** — you are free to use, modify, and share it with proper attribution.
-
----
-
-**Let’s connect and collaborate!**
