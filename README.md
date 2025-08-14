@@ -47,8 +47,6 @@ Everything in this project is **free to use**:
 - **SQL Server Express**: Lightweight SQL database hosting.  
 - **SQL Server Management Studio (SSMS)**: Manage and query databases.  
 - **GitHub**: Version control and project collaboration.  
-- **DrawIO**: Create architecture diagrams, data flows, and models.  
-- **Notion**: Project management template and steps.
 
 ---
 
@@ -83,28 +81,14 @@ These insights help stakeholders make **data-driven strategic decisions**.
 ```
 data-warehouse-project/
 │
-├── datasets/                           # Raw datasets (ERP & CRM data)
-│
-├── docs/                               # Documentation & architecture files
-│   ├── etl.drawio                      # ETL techniques and flow
-│   ├── data_architecture.drawio        # Project architecture diagram
-│   ├── data_catalog.md                 # Dataset field descriptions
-│   ├── data_flow.drawio                # Data flow diagram
-│   ├── data_models.drawio              # Star schema data model
-│   ├── naming-conventions.md           # Table, column, file naming rules
-│
+├── datasets/                           # Raw datasets (ERP & CRM data
 ├── scripts/                            # SQL scripts for ETL & transformations
 │   ├── bronze/                         # Raw data ingestion scripts
 │   ├── silver/                         # Data cleansing & transformation
 │   ├── gold/                           # Analytical model creation
-│
-├── tests/                              # Test scripts and data quality checks
-│
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License info
 ├── .gitignore                          # Ignored files for Git
-└── requirements.txt                    # Project dependencies
-```
 
 ---
 
@@ -120,9 +104,5 @@ Let’s connect and grow together! You can find me on:
 This project is licensed under the **MIT License** — you are free to use, modify, and share it with proper attribution.
 
 ---
-
-## 🌟 About Me
-
-Hi there! 👋 I’m an IT professional passionate about **data engineering, analytics, and sharing knowledge**. My goal is to make learning data fun and practical through real-world projects.  
 
 **Let’s connect and collaborate!**
