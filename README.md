@@ -74,8 +74,22 @@ Create SQL-based analytics delivering insights on:
 
 These insights help stakeholders make **data-driven strategic decisions**.
 
----
 
+## 📂 Repository Structure
+---
+```
+data-warehouse-project/
+│
+├── datasets/                           # Raw datasets (ERP & CRM data
+├── scripts/                            # SQL scripts for ETL & transformations
+│   ├── bronze/                         # Raw data ingestion scripts
+│   ├── silver/                         # Data cleansing & transformation
+│   ├── gold/                           # Analytical model creation
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License info
+├── .gitignore                          # Ignored files for Git
+
+```
 
 
 
@@ -95,20 +109,8 @@ This project is licensed under the **MIT License** — you are free to use, modi
 
 **Let’s connect and collaborate!**
 
-## 📂 Repository Structure
 
-```
-data-warehouse-project/
-│
-├── datasets/                           # Raw datasets (ERP & CRM data
-├── scripts/                            # SQL scripts for ETL & transformations
-│   ├── bronze/                         # Raw data ingestion scripts
-│   ├── silver/                         # Data cleansing & transformation
-│   ├── gold/                           # Analytical model creation
-├── README.md                           # Project overview and instructions
-├── LICENSE                             # License info
-├── .gitignore                          # Ignored files for Git
 
----
+
 
 
